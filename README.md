@@ -4,7 +4,7 @@ Learning to write cuda kernels with 100 Days of CUDA challenge
 ---
 
 ## Day 1
-### File: `vectadd.cu`
+### File: `vectorAddition.cu`
 **Summary:**  
 Implemented vector addition by writing a simple CUDA program. Explored how to launch a kernel to perform a parallelized addition of two arrays, where each thread computes the sum of a pair of values.  
 
